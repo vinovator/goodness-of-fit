@@ -1,6 +1,6 @@
 # Chi-Square Goodness of Fit Test App
 
-A visually attractive, interactive Streamlit application to perform Chi-Square Goodness of Fit tests. This tool helps you statistically determine if your observed data matches expected theoretical values.
+An interactive Streamlit application to perform Chi-Square Goodness of Fit tests. This tool helps you statistically determine if your observed data matches expected theoretical values.
 
 ## 🌟 Features
 
